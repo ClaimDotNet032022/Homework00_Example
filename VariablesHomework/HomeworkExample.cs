@@ -12,7 +12,7 @@ namespace VariablesExample
             // This line contains a syntax error.
             // It prevents the solution from building,
             // so it will not pass.
-            Console.WriteLine("Hello World);
+            Console.WriteLine("Hello World");
 
 
 
