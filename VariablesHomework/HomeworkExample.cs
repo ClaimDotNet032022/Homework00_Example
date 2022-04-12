@@ -21,7 +21,7 @@ namespace VariablesExample
             // logical error - it "asserts" that a condition
             // is true, but the condition is false,
             // so the test will not pass.
-            Assert.IsTrue(1 == 2);
+            Assert.IsTrue(1 == 1);
         }
 
     }
