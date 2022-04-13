@@ -12,7 +12,7 @@ namespace VariablesExample
             // This line contains a syntax error.
             // It prevents the solution from building,
             // so it will not pass.
-            Console.WriteLine("Hello World);
+            Console.WriteLine("Hello World");
 
 
 
@@ -21,7 +21,7 @@ namespace VariablesExample
             // logical error - it "asserts" that a condition
             // is true, but the condition is false,
             // so the test will not pass.
-            Assert.IsTrue(1 == 2);
+            Assert.IsTrue(2 == 2);
         }
 
     }
